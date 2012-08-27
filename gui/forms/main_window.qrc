@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/root">
+    <file>../images/folder/folder-horizontal_32.png</file>
+    <file>../images/background/linen.jpg</file>
+    <file>../images/misc/toolbox.png</file>
+    <file>../images/preloaders/24.gif</file>
+    <file>../images/folder/folder-horizontal.png</file>
+    <file>../images/navigation/arrow-180-medium.png</file>
+    <file>../images/logo.png</file>
+    <file>../images/music/music.png</file>
+    <file>../images/navigation/arrow-180-medium.png</file>
+  </qresource>
+</RCC>

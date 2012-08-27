@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="ptsans">
+    <file>./PTSans-Bold.ttf</file>
+    <file>./PTSans-BoldItalic.ttf</file>
+
+    <file>./PTSans-Light.ttf</file>
+    <file>./PTSans-LightBold.ttf</file>
+
+    <file>./PTSans-Regular.ttf</file>
+    <file>./PTSans-Italic.ttf</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+@echo off
+call compile_tool_description_widget silent
+call compile_notification_widget silent
+call compile_artist_widget silent
+call compile_dir_selection silent
+call compile_tools silent
+call _compile forms\main_window.ui

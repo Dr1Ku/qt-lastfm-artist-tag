@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="root">
+    <file>../images/frames/toolFrameHover.png</file>
+    <file>../images/tools/aggregate.png</file>
+    <file>../images/frames/toolFrame.png</file>
+  </qresource>
+</RCC>

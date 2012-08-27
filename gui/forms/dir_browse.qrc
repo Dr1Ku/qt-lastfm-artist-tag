@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/root">
+    <file>../images/button_glyphs/cross-button.png</file>
+    <file>../images/folder/folder-horizontal-open.png</file>
+    <file>../images/preloaders/16.gif</file>
+  </qresource>
+</RCC>

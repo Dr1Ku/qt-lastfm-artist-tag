@@ -1,0 +1,1 @@
+_run forms\main_window.ui

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="root">
+    <file>../images/music/music.png</file>
+    <file>../images/tag/tag-label.png</file>
+  </qresource>
+</RCC>

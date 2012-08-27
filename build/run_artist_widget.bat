@@ -1,0 +1,1 @@
+_run widgets\artist_widget.ui

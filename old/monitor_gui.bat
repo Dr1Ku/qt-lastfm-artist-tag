@@ -1,0 +1,1 @@
+WFSLogX.exe "M:\!!!##Y'ALL SORT THIS HERE MUZ\##DONE\2006 - Stop the clocks\gui" "main_window.ui" "M:\!!!##Y'ALL SORT THIS HERE MUZ\##DONE\2006 - Stop the clocks\gui\compile.bat"

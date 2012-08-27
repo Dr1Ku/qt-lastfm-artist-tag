@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="builder" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="fastthread" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="id3" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="id3lib-ruby" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="log4r" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="ruby-debug" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="ruby-debug-base" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/gui/images" />
+      <excludeFolder url="file://$MODULE_DIR$/old" />
+      <excludeFolder url="file://$MODULE_DIR$/ux" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.15, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="columnize (v0.3.1, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="fastthread (v1.0.1, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="id3 (v0.5.0, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="id3lib-ruby (v0.6.0, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="linecache (v0.43, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="log4r (v1.1.9, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-debug (v0.10.4, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-debug-base (v0.10.4, Ruby SDK 1.8.7 (D:\nu codes\R\ruby-1.8.7-p248-i386-mswin32\bin\ruby.exe)) [gem]" level="application" />
+  </component>
+</module>
+

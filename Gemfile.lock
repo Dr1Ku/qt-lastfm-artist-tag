@@ -1,0 +1,27 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    builder (3.0.0)
+    columnize (0.3.1)
+    fastthread (1.0.1-x86-mswin32)
+    id3 (0.5.0)
+    id3lib-ruby (0.6.0-x86-mswin32)
+    linecache (0.43-x86-mswin32)
+    log4r (1.1.9)
+    ruby-debug (0.10.4)
+      columnize (>= 0.1)
+      ruby-debug-base (~> 0.10.4.0)
+    ruby-debug-base (0.10.4-x86-mswin32)
+      linecache (>= 0.3)
+
+PLATFORMS
+  x86-mswin32
+
+DEPENDENCIES
+  builder
+  fastthread
+  id3
+  id3lib-ruby
+  log4r
+  ruby-debug
+  ruby-debug-base

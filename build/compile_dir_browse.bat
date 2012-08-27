@@ -1,0 +1,1 @@
+_compile forms\dir_browse.ui dir_browse.ui.cfg %1

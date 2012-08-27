@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="root">
+    <file>../images/notify/cross-circle-frame.png</file>
+    <file>../images/preloaders/16.gif</file>
+    <file>../images/notify/exclamation--frame.png</file>
+    <file>../images/notify/information-frame.png</file>
+    <file>../images/notify/tick-circle-frame.png</file>
+  </qresource>
+</RCC>

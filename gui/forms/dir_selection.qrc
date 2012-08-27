@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/root">
+    <file>../images/notify/information-frame.png</file>
+    <file>../images/folder/folder--minus.png</file>
+    <file>../images/folder/folder-open-document-music.png</file>
+    <file>../images/folder/folder--pencil.png</file>
+    <file>../images/folder/folder--plus.png</file>
+    <file>../images/notify/exclamation--frame.png</file>
+    <file>../images/button_glyphs/cross-button.png</file>
+  </qresource>
+</RCC>
